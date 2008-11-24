@@ -5,8 +5,9 @@ Makefile.PL
 MANIFEST
 README
 TODO
-test.pl
-test.flac
+t/decoder.t
+t/pod.t
+t/test.flac
 examples/decode
 include/common.h
 include/dither.h
